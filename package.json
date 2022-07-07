@@ -8,7 +8,7 @@
     "get_bundle": "sh ./scripts/create_local_store.sh"
   },
   "dependencies": {
-    "moment": "^2.22.1",
+    "moment": "^2.29.4",
     "native-base": "^2.4.2",
     "react": "16.3.1",
     "react-native": "0.55.2",
